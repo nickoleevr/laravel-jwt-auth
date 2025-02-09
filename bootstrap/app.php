@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Middleware\apiProtectedRoute;
+use App\Http\Middleware\ApiProtectedRoute;
 use Illuminate\Foundation\Application;
 use Illuminate\Foundation\Configuration\Exceptions;
 use Illuminate\Foundation\Configuration\Middleware;
